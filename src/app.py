@@ -16,6 +16,7 @@ db.Base.metadata.create_all(db.engine)
 #     db.session.add(Student(x[0], x[1]))
 # db.session.commit() 
 
+#añado comentario para probar el actions
 
 # devuelve la consulta si existe 
 def student_check(student_id):
